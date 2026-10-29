@@ -1,0 +1,14 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ADK/
